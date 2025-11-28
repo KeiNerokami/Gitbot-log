@@ -1,0 +1,18 @@
+aiohappyeyeballs==2.6.1
+aiohttp==3.12.15
+aiosignal==1.4.0
+attrs==25.3.0
+audioop_lts==0.2.2
+frozenlist==1.7.0
+idna==3.10
+multidict==6.6.4
+nextcord==3.1.1
+propcache==0.3.2
+python-dotenv==1.1.1
+typing_extensions==4.14.1
+yarl==1.20.1
+
+# Notes:
+# - These versions were inferred from the project's local 'packages/' directory
+#   (dist-info entries). If you use a virtual environment, consider running
+#   `pip freeze` in it and replacing these pins with the exact versions used there.
